@@ -1,5 +1,12 @@
-### Hi there 👋
+<style>
+  .banner{
+    background: no-repeat center center url("bg-profile.png");
+  }
+</style>
 
+<div class="banner">
+  <h1> Hi, this is David 👋</h1>
+</div>
 <!--
 **Newville23/Newville23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
