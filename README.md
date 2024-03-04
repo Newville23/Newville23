@@ -1,8 +1,4 @@
 <div align="center">
- <img src="./bg-profile.png" height="200"/>
-</div>
-
-<div align="center">
   <a href="https://davidvillanueva.co/" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/david-villanueva-dev/" target="_blank">Linkedin</a>
