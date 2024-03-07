@@ -1,19 +1,21 @@
+<div>
+<h2> Summary </h2>
+<p>Software engineer with 7 years of experience on B2B systems using ReactJS, NodeJs, and DynamoDB.</p>
+<ul>
+    <li>🚩🚀 I'm implementing large-scale B2B cloud-native software with ~120 clients </li>
+    <li>🛠️ I'm building a Rental Management platform and a tenant screening system using NextJS, React and Tailwind CSS</li>
+    <li>👥🔥 I co-organized a Javascript community in Barranquilla</li>
+</ul>
+</div>
 <div align="center">
+   <hr />
   <a href="https://davidvillanueva.co/" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/david-villanueva-dev/" target="_blank">Linkedin</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://twitter.com/Villa_dev_" target="_blank">Twitter</a>
   <br />
-  <hr />
-</div>
-<div>
-<h2> About me </h2>
-<ul>
-    <li>🪶🌿 I love doing bird-watching and gardering</li>
-    <li>🚩🚀 I'm currently working with javascript to build blazing applications</li>
-    <li>👥🔥 I co-organized a Javascript community in Barranquilla</li>
-</ul>
+ 
 </div>
 <!--
 **Newville23/Newville23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
