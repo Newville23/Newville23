@@ -9,7 +9,6 @@
 </div>
 <div align="center">
    <hr />
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/david-villanueva-dev/" target="_blank">Linkedin</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://twitter.com/Villa_dev_" target="_blank">Twitter</a>
